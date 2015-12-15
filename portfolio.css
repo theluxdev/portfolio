@@ -1,1 +1,28 @@
-/* CSS declarations go here */
+body, html {
+	height: 100%;
+}
+
+.center {
+	text-align: center;
+}
+
+div#homePage.container-fluid {
+	height: 100%;
+	color: #000;
+	padding-top: 20%;
+}
+
+div#about.container-fluid {
+	height: 100%;
+	padding-top: 15%;
+}
+
+
+div.projectList.container-fluid {
+	padding-top: 70px;
+}
+
+
+footer {
+	padding-top: 60px;
+}
